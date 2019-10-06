@@ -38,4 +38,26 @@ public void openCamera(View v){
     }
 ```	
     
-When the Scanning Action is completed the app is returned from instance of scanlibrary to main app.
+When the scanning action is completed the app is returned from instance of scanlibrary to main app, to retrieve the scanned image and to get the next screen of getiing the result scan.
+```	
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        super.onActivityResult(requestCode, resultCode, data);
+
+        if (requestCode == 99 && resultCode == Activity.RESULT_OK) {
+            Uri uri = data.getExtras().getParcelable(ScanConstants.SCANNED_RESULT);
+            Bitmap bitmap = null;
+            try {
+                bitmap = MediaStore.Images.Media.getBitmap(getContentResolver(), uri);
+                getContentResolver().delete(uri, null, null);
+                ImageView scannedImageView;
+               // scannedImageView.setImageBitmap(bitmap);
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+        }
+
+
+    }
+```	
+
