@@ -38,3 +38,4 @@ public void openCamera(View v){
     }
 ```	
     
+When the Scanning Action is completed the app is returned from instance of scanlibrary to main app.
