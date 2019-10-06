@@ -64,6 +64,10 @@ When the scanning action is completed the app is returned from instance of scanl
     
 ```	
 
+
+# Adding Required Library Dependency
+
+
 # License
 
 	Copyright (c) 2016 Jhansi Karee
