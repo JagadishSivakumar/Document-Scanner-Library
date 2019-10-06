@@ -51,6 +51,7 @@ When the scanning action is completed the app is returned from instance of scanl
                 bitmap = MediaStore.Images.Media.getBitmap(getContentResolver(), uri);
                 getContentResolver().delete(uri, null, null);
                 ImageView scannedImageView;
+               
                // scannedImageView.setImageBitmap(bitmap);
             } catch (IOException e) {
                 e.printStackTrace();
