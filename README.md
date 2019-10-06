@@ -70,6 +70,26 @@ On building the app the error of 'android support' pops up in some cases.
 
 **error: package android.support.v4.content does not exist**
 
+- Add the library dependency android support v4 through project structure
+or just add the below snippet in build.gradle(Module:app) file 
+
+```
+
+dependencies {
+    //
+    // IDE setting pulls in the specific version of v4 support you have installed:
+    //
+    //compile 'com.android.support:support-v4:21.0.3'
+
+    //
+    // generic directive pulls in any available version of v4 support:
+    //
+    compile 'com.android.support:support-v4:+'
+}
+
+```
+
+
 
 
 
