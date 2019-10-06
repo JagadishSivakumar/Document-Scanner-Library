@@ -39,6 +39,7 @@ public void openCamera(View v){
 ```	
     
 When the scanning action is completed the app is returned from instance of scanlibrary to main app, to retrieve the scanned image and to get the next screen of getiing the result scan.
+
 ```	
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
@@ -60,10 +61,10 @@ When the scanning action is completed the app is returned from instance of scanl
 
 
     }
-```	
-```	
+    
 ```	
 
-#Adding Library Dependency 
+** Adding required Library Dependecny**
+
 
 
