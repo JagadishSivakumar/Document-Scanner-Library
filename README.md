@@ -65,7 +65,10 @@ When the scanning action is completed the app is returned from instance of scanl
 ```	
 
 
-# Adding Required Library Dependency
+# Required Library Dependency
+On building the app the error of 'android support' pops up in some cases. To solve that:
+Build failed: *error: package android.support.v4.content does not exist*
+
 
 
 # License
