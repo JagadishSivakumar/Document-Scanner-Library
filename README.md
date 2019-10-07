@@ -6,7 +6,7 @@ The Document Scanner Library is built with the OpenCV. On importing the library 
   - Crop the Edges with the selected border
   - Change the perspective transformation of the cropped image
 
-**Updated OpenCV Framework** [openCV](https://opencv.org/)
+**Updated OpenCV Framework** [openCV](https://opencv.org/releases/) / [Git repo](https://github.com/opencv/opencv/tree/4.1.1)
 
 # Importing to your Project 
 - Android Studio 3.5
