@@ -105,7 +105,7 @@ dependencies {
 <img width="23%" src="https://raw.githubusercontent.com/JagadishSivakumar/Document-Scanner-API/master/scanlibrary/ScanDemoExample/screenshots/options.png" alt="Scan Input" title="Scan Input"></img>
 
 <a href="https://raw.githubusercontent.com/JagadishSivakumar/Document-Scanner-API/master/scanlibrary/ScanDemoExample/screenshots/blacknwhite.png" />
-<img width="23%" src="https://raw.githubusercontent.com/JagadishSivakumar/Document-Scanner-API/master/scanlibrary/ScanDemoExample/screenshots/blacknwhite.png" alt="Scan Input" title="Scan Input"></img>
+<img width="23%" style="float:left;" src="https://raw.githubusercontent.com/JagadishSivakumar/Document-Scanner-API/master/scanlibrary/ScanDemoExample/screenshots/blacknwhite.png" alt="Scan Input" title="Scan Input"></img>
 </div>
 
 
