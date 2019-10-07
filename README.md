@@ -93,13 +93,19 @@ dependencies {
 # Screenshot
 <div align="center">
 <a href="https://raw.githubusercontent.com/JagadishSivakumar/Document-Scanner-API/master/scanlibrary/ScanDemoExample/screenshots/design.png" />
-<img width="23%" height="400px" src="https://raw.githubusercontent.com/JagadishSivakumar/Document-Scanner-API/master/scanlibrary/ScanDemoExample/screenshots/design.png" alt="Scan Input" title="Scan Input"></img>
+<img width="23%" height="390px" src="https://raw.githubusercontent.com/JagadishSivakumar/Document-Scanner-API/master/scanlibrary/ScanDemoExample/screenshots/design.png" alt="Scan Input" title="Scan Input"></img>
 
 <a href="https://raw.githubusercontent.com/JagadishSivakumar/Document-Scanner-API/master/scanlibrary/ScanDemoExample/screenshots/click.png" />
 <img width="23%" src="https://raw.githubusercontent.com/JagadishSivakumar/Document-Scanner-API/master/scanlibrary/ScanDemoExample/screenshots/click.png" alt="Scan Input" title="Scan Input"></img>
 
 <a href="https://raw.githubusercontent.com/JagadishSivakumar/Document-Scanner-API/master/scanlibrary/ScanDemoExample/screenshots/crop.png" />
 <img width="23%" src="https://raw.githubusercontent.com/JagadishSivakumar/Document-Scanner-API/master/scanlibrary/ScanDemoExample/screenshots/crop.png" alt="Scan Input" title="Scan Input"></img>
+
+<a href="https://raw.githubusercontent.com/JagadishSivakumar/Document-Scanner-API/master/scanlibrary/ScanDemoExample/screenshots/options.png" />
+<img width="23%" src="https://raw.githubusercontent.com/JagadishSivakumar/Document-Scanner-API/master/scanlibrary/ScanDemoExample/screenshots/options.png" alt="Scan Input" title="Scan Input"></img>
+
+<a href="https://raw.githubusercontent.com/JagadishSivakumar/Document-Scanner-API/master/scanlibrary/ScanDemoExample/screenshots/blacknwhite.png" />
+<img width="23%" src="https://raw.githubusercontent.com/JagadishSivakumar/Document-Scanner-API/master/scanlibrary/ScanDemoExample/screenshots/blacknwhite.png" alt="Scan Input" title="Scan Input"></img>
 </div>
 
 
