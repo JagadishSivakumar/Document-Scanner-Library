@@ -94,6 +94,12 @@ dependencies {
 <div align="center">
 <a href="https://raw.githubusercontent.com/JagadishSivakumar/Document-Scanner-API/master/scanlibrary/ScanDemoExample/screenshots/design.png" />
 <img width="23%" src="https://raw.githubusercontent.com/JagadishSivakumar/Document-Scanner-API/master/scanlibrary/ScanDemoExample/screenshots/design.png" alt="Scan Input" title="Scan Input"></img>
+
+<a href="https://raw.githubusercontent.com/JagadishSivakumar/Document-Scanner-API/master/scanlibrary/ScanDemoExample/screenshots/design.png" />
+<img width="23%" src="https://raw.githubusercontent.com/JagadishSivakumar/Document-Scanner-API/master/scanlibrary/ScanDemoExample/screenshots/design.png" alt="Scan Input" title="Scan Input"></img>
+
+<a href="https://raw.githubusercontent.com/JagadishSivakumar/Document-Scanner-API/master/scanlibrary/ScanDemoExample/screenshots/design.png" />
+<img width="23%" src="https://raw.githubusercontent.com/JagadishSivakumar/Document-Scanner-API/master/scanlibrary/ScanDemoExample/screenshots/design.png" alt="Scan Input" title="Scan Input"></img>
 </div>
 
 
