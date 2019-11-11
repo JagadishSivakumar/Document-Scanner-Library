@@ -16,7 +16,7 @@ Add the dependecy to your project through Project Structure.
 ```	
 Files => Project Structure => Dependecy => App => Module Dependency
 ```	
-
+ 
 ```	    
 compile project(':scanlibrary')
 ```
